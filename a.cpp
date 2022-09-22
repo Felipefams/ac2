@@ -25,7 +25,7 @@ using namespace std;
 int main(){fast_io;
 
 	  ofstream fout ("testeula.hex");
-//    ifstream fin ("test.in");
+//      ifstream fin ("romanelli.ula");
 	  ifstream fin ("testeula.ula");
 	string s; fin >> s;
 	string hex = "";
